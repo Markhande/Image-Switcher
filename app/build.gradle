@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.scrollview'
+    namespace 'com.example.scrollviewpractice'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.scrollview"
+        applicationId "com.example.scrollviewpractice"
         minSdk 26
         targetSdk 34
         versionCode 1

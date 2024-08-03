@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ScrollView"
+rootProject.name = "scrollView Practice"
 include ':app'
